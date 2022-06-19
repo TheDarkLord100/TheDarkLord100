@@ -1,8 +1,12 @@
+## Hello I'm
+# Vijayant Singh
+
+
 # 💫About Me :
-🔭 I’m currently writing Code
-👯 I’m looking to collaborate on IoT Projects
-🌱 I’m currently learning Flutter
-💬 Ask me about Harry Potter
+🔭 I’m currently writing Code<br>
+👯 I’m looking to collaborate on IoT Projects<br>
+🌱 I’m currently learning Flutter<br>
+💬 Ask me about Harry Potter<br>
 
 
 
