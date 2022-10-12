@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TheDarkLord100&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
+## 🏆 Holopin board
+[![@thedarklord100's Holopin board](https://holopin.me/thedarklord100)](https://holopin.io/@thedarklord100)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
