@@ -18,11 +18,5 @@
 ## 🏆 Holopin board
 [![@thedarklord100's Holopin board](https://holopin.me/thedarklord100)](https://holopin.io/@thedarklord100)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=TheDarkLord100&icon=0&color=9)](https://visitcount.itsvg.in)
